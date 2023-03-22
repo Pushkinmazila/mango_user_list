@@ -1,6 +1,6 @@
 $login = "XXXXXXXX" #Логин для входа в кабинет
-$password = "AHDlS03327" #Пароль для входа в кабинет
-$IURL = "https://lk.mango-office.ru/400183801/400254558/members/index" # Путь на страницу где список сотрудников
+$password = "XXXXXXXX" #Пароль для входа в кабинет
+$IURL = "https://lk.mango-office.ru/XXXXXXXX/XXXXXXXX/members/index" # Путь на страницу где список сотрудников
 
 
 $ie = New-Object -com "InternetExplorer.Application"
